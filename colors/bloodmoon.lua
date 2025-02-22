@@ -1,1 +1,1 @@
-require("bloodmoon").load()
+require("bloodmoon").init()
